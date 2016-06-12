@@ -1,0 +1,20 @@
+public static void main(String[] args)
+	{
+          try {
+			getJSonTesxt("C:/Users/yonatan/OneDrive/תואר/סמסטר ג/תכנות מערכות/שיעורי בית/SPL2/src/main/resources/hi.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	public static String getJSonTesxt(String url) throws IOException{
+		File f = new File(url);
+		String result = "";
+		FileReader fr = new FileReader(f);
+		while(fr.ready()){
+			char x = (char) fr.read();
+			result+=x;
+		}
+		return result;
+	}

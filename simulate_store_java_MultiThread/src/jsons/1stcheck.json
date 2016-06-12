@@ -1,0 +1,19 @@
+{
+"initialStorage": [
+{"shoeType": "red-boots", "amount": 5}
+],
+"services": {
+"time": {
+"speed": 500,
+"duration": 24
+},
+"manager": {
+"discountSchedule": [
+{"shoeType": "red-boots", "amount": 1, "tick": 3}
+]
+},
+"factories": 1,
+"sellers": 1,
+"customers": []
+}
+}

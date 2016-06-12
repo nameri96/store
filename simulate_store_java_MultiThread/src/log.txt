@@ -1,0 +1,648 @@
+space-flip-flops, 1 Added to discount schedule.
+space-flip-flops, 1 Added to discount schedule.
+blue-sneakers, 1 Added to discount schedule.
+blue-sneakers, 3 Added to discount schedule.
+ugly-sandals, 1 Added to discount schedule.
+ugly-sandals, 1 Added to discount schedule.
+uncomfortable-high-heels, 1 Added to discount schedule.
+blue-sneakers, 10 Added to storage.
+uncomfortable-high-heels, 5 Added to storage.
+green-flip-flops, 7 Added to storage.
+red-boots, 3 Added to storage.
+ugly-sandals, 1 Added to storage.
+work-shoes, 3 Added to storage.
+Bracha started
+Nurith started
+Group-Buyers1 started
+Group-Buyers3 started
+Group-Buyers2 started
+Shimshon started
+Simha started
+Ilanit started
+Bruria started
+Shraga started
+Yosef started
+Reuven started
+timer: start
+Seller_1 started
+Factory_2 started
+manager started
+Factory_1 started
+Seller_3 started
+Seller_2 started
+Tick: 1
+manager: got tick 1 and is making a discount on 1 uncomfortable-high-heels
+Nurith is ordering uncomfortable-high-heels from their wishlist
+Ilanit is ordering uncomfortable-high-heels on tick 1
+Seller_3 got a purchase from Ilanit for a pair of uncomfortable-high-heels
+Seller_1 got a purchase from Nurith for a pair of uncomfortable-high-heels
+We're sorry, Nurith but there is no discount on uncomfortable-high-heels
+Ilanit got their uncomfortable-high-heels on discount! from Seller_3
+Ilanit got uncomfortable-high-heels on tick 1
+Tick: 2
+Tick: 3
+Tick: 4
+Tick: 5
+Tick: 6
+manager: got tick 6 and is NOT(!!!!) making a discount on non-existing shoes!!!!
+Tick: 7
+manager: got tick 7 and is making a discount on 1 blue-sneakers
+Bracha is ordering blue-sneakers from their wishlist
+Seller_2 got a purchase from Bracha for a pair of blue-sneakers
+Bracha got their blue-sneakers on discount! from Seller_2
+Tick: 8
+Bracha is done shopping and is terminating!
+Tick: 9
+Shimshon is ordering blue-sneakers on tick 9
+Seller_1 got a purchase from Shimshon for a pair of blue-sneakers
+Shimshon got their blue-sneakers from Seller_1
+Shimshon got blue-sneakers on tick 9
+Tick: 10
+Tick: 11
+Tick: 12
+Shraga is ordering green-flip-flops on tick 12
+Group-Buyers3 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Seller_3 got a purchase from Shraga for a pair of green-flip-flops
+Group-Buyers2 is ordering work-shoes on tick 12
+Shraga got their green-flip-flops from Seller_3
+Seller_2 got a purchase from Group-Buyers2 for a pair of work-shoes
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers2 got their work-shoes from Seller_2
+Seller_1 got a purchase from Group-Buyers2 for a pair of work-shoes
+Group-Buyers2 got their work-shoes from Seller_1
+Group-Buyers1 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Seller_2 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_3 got a purchase from Group-Buyers3 for a pair of work-shoes
+Shraga got green-flip-flops on tick 12
+Group-Buyers3 got their work-shoes from Seller_3
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers1 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Seller_1 got a purchase from Group-Buyers2 for a pair of work-shoes
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers1 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Seller_3 got a purchase from Group-Buyers1 for a pair of work-shoes
+Group-Buyers3 got work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers2 is ordering work-shoes on tick 12
+Group-Buyers2 got work-shoes on tick 12
+Group-Buyers2 got work-shoes on tick 12
+Seller_3 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_3 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_3 got a purchase from Group-Buyers2 for a pair of work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+Seller_1 got a purchase from Group-Buyers1 for a pair of work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+manager got a new restock request from Seller_3
+Seller_1 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_2 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_2 got a purchase from Group-Buyers2 for a pair of work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+Seller_2 got a purchase from Group-Buyers2 for a pair of work-shoes
+Seller_2 got a purchase from Group-Buyers1 for a pair of work-shoes
+Seller_1 got a purchase from Group-Buyers2 for a pair of work-shoes
+manager got a new restock request from Seller_3
+Seller_3 got a purchase from Group-Buyers1 for a pair of work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+manager got a new restock request from Seller_3
+Factory_2 got a new manufacturing request for 3 work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+Group-Buyers1 is ordering work-shoes on tick 12
+manager got a new restock request from Seller_3
+Seller_3 got a purchase from Group-Buyers1 for a pair of work-shoes
+Group-Buyers1 is ordering work-shoes on tick 12
+Seller_2 got a purchase from Group-Buyers1 for a pair of work-shoes
+Seller_2 got a purchase from Group-Buyers1 for a pair of work-shoes
+Seller_1 got a purchase from Group-Buyers1 for a pair of work-shoes
+manager got a new restock request from Seller_1
+Seller_1 got a purchase from Group-Buyers1 for a pair of work-shoes
+manager got a new restock request from Seller_1
+Factory_1 got a new manufacturing request for 3 work-shoes
+manager got a new restock request from Seller_2
+manager got a new restock request from Seller_2
+Factory_2 got a new manufacturing request for 3 work-shoes
+manager got a new restock request from Seller_2
+Seller_1 got a purchase from Group-Buyers1 for a pair of work-shoes
+manager got a new restock request from Seller_2
+manager got a new restock request from Seller_2
+manager got a new restock request from Seller_1
+manager got a new restock request from Seller_3
+manager got a new restock request from Seller_3
+manager got a new restock request from Seller_2
+manager got a new restock request from Seller_1
+manager got a new restock request from Seller_1
+manager got a new restock request from Seller_2
+manager got a new restock request from Seller_1
+manager got a new restock request from Seller_1
+Factory_2 got a new manufacturing request for 3 work-shoes
+Factory_1 got a new manufacturing request for 3 work-shoes
+Factory_2 got a new manufacturing request for 3 work-shoes
+Tick: 13
+Factory_2 made one more pair of work-shoes and has 2 more for this order
+Group-Buyers3 is ordering work-shoes on tick 13
+Factory_1 made one more pair of work-shoes and has 2 more for this order
+Seller_3 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_3
+Tick: 14
+Factory_2 made one more pair of work-shoes and has 1 more for this order
+Group-Buyers3 is ordering work-shoes on tick 14
+Factory_1 made one more pair of work-shoes and has 1 more for this order
+Seller_2 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_2
+Factory_1 got a new manufacturing request for 5 work-shoes
+Tick: 15
+Factory_2 made one more pair of work-shoes and has 0 more for this order
+Group-Buyers3 is ordering work-shoes on tick 15
+Factory_1 made one more pair of work-shoes and has 0 more for this order
+Seller_1 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_1
+Tick: 16
+Group-Buyers3 is ordering work-shoes on tick 16
+manager got notified about manufacturing completion for 3 work-shoes
+Seller_3 got a purchase from Group-Buyers3 for a pair of work-shoes
+Group-Buyers3 got their work-shoes from Seller_3
+Sender Seller_3 got notified about request completion with result: "true"
+manager got notified about manufacturing completion for 3 work-shoes
+Group-Buyers3 got work-shoes on tick 16
+Group-Buyers1 got their work-shoes from Seller_3
+Sender Seller_1 got notified about request completion with result: "true"
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers2 got their work-shoes from Seller_1
+Group-Buyers2 got their work-shoes from Seller_3
+Sender Seller_1 got notified about request completion with result: "true"
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 16
+Group-Buyers1 got work-shoes on tick 16
+Group-Buyers1 got their work-shoes from Seller_1
+Group-Buyers2 got their work-shoes from Seller_3
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers2 got their work-shoes from Seller_3
+Group-Buyers2 got work-shoes on tick 16
+Group-Buyers2 got work-shoes on tick 16
+Group-Buyers2 got work-shoes on tick 16
+Group-Buyers1 got work-shoes on tick 16
+Tick: 17
+Factory_2 made one more pair of work-shoes and has 2 more for this order
+Group-Buyers3 is ordering work-shoes on tick 17
+Factory_1 made one more pair of work-shoes and has 2 more for this order
+manager: got tick 17 and is making a discount on 3 blue-sneakers
+Seller_2 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_2
+Tick: 18
+Factory_2 made one more pair of work-shoes and has 1 more for this order
+Group-Buyers3 is ordering work-shoes on tick 18
+Factory_1 made one more pair of work-shoes and has 1 more for this order
+Seller_1 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_1
+Tick: 19
+Factory_2 made one more pair of work-shoes and has 0 more for this order
+Group-Buyers3 is ordering work-shoes on tick 19
+Factory_1 made one more pair of work-shoes and has 0 more for this order
+Seller_3 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_3
+Tick: 20
+Group-Buyers3 is ordering work-shoes on tick 20
+Shimshon is ordering blue-sneakers on tick 20
+manager got notified about manufacturing completion for 3 work-shoes
+Seller_2 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got notified about manufacturing completion for 3 work-shoes
+Group-Buyers3 got their work-shoes from Seller_2
+Shimshon got their blue-sneakers on discount! from Seller_1
+Sender Seller_2 got notified about request completion with result: "true"
+Sender Seller_1 got notified about request completion with result: "true"
+Shimshon got blue-sneakers on tick 20
+Group-Buyers2 got their work-shoes from Seller_1
+Group-Buyers2 got work-shoes on tick 20
+Sender Seller_2 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 20
+Group-Buyers2 got their work-shoes from Seller_2
+Sender Seller_2 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 20
+Group-Buyers2 got their work-shoes from Seller_2
+Sender Seller_2 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 20
+Group-Buyers2 got their work-shoes from Seller_2
+Sender Seller_2 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 20
+Group-Buyers1 got their work-shoes from Seller_2
+Group-Buyers1 got work-shoes on tick 20
+Tick: 21
+Factory_2 made one more pair of work-shoes and has 2 more for this order
+Factory_1 made one more pair of work-shoes and has 2 more for this order
+Shimshon is done shopping and is terminating!
+Seller_3 got a purchase from Group-Buyers3 for a pair of work-shoes
+manager got a new restock request from Seller_3
+Factory_2 got a new manufacturing request for 2 work-shoes
+Tick: 22
+Factory_2 made one more pair of work-shoes and has 1 more for this order
+Factory_1 made one more pair of work-shoes and has 1 more for this order
+Tick: 23
+Factory_1 made one more pair of work-shoes and has 0 more for this order
+Factory_2 made one more pair of work-shoes and has 0 more for this order
+Tick: 24
+manager got notified about manufacturing completion for 3 work-shoes
+manager got notified about manufacturing completion for 3 work-shoes
+Sender Seller_3 got notified about request completion with result: "true"
+Sender Seller_2 got notified about request completion with result: "true"
+Sender Seller_1 got notified about request completion with result: "true"
+Group-Buyers1 got their work-shoes from Seller_3
+Group-Buyers2 got their work-shoes from Seller_1
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers2 got work-shoes on tick 24
+Group-Buyers1 got their work-shoes from Seller_3
+Group-Buyers1 got their work-shoes from Seller_2
+Sender Seller_2 got notified about request completion with result: "true"
+Group-Buyers1 got their work-shoes from Seller_2
+Group-Buyers1 got their work-shoes from Seller_1
+Group-Buyers1 got work-shoes on tick 24
+Group-Buyers1 got work-shoes on tick 24
+Group-Buyers1 got work-shoes on tick 24
+Group-Buyers1 got work-shoes on tick 24
+Group-Buyers1 got work-shoes on tick 24
+Tick: 25
+Group-Buyers2 is done shopping and is terminating!
+Factory_1 made one more pair of work-shoes and has 2 more for this order
+Factory_2 made one more pair of work-shoes and has 2 more for this order
+Tick: 26
+Factory_2 made one more pair of work-shoes and has 1 more for this order
+Factory_1 made one more pair of work-shoes and has 1 more for this order
+Tick: 27
+Factory_2 made one more pair of work-shoes and has 0 more for this order
+Factory_1 made one more pair of work-shoes and has 0 more for this order
+Tick: 28
+manager got notified about manufacturing completion for 3 work-shoes
+manager got notified about manufacturing completion for 5 work-shoes
+Sender Seller_3 got notified about request completion with result: "true"
+Sender Seller_1 got notified about request completion with result: "true"
+Group-Buyers1 got their work-shoes from Seller_1
+Sender Seller_2 got notified about request completion with result: "true"
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers3 got their work-shoes from Seller_2
+Sender Seller_1 got notified about request completion with result: "true"
+Group-Buyers1 got work-shoes on tick 28
+Group-Buyers1 got their work-shoes from Seller_1
+Group-Buyers3 got work-shoes on tick 28
+Sender Seller_1 got notified about request completion with result: "true"
+Group-Buyers1 got work-shoes on tick 28
+Group-Buyers3 got their work-shoes from Seller_1
+Sender Seller_2 got notified about request completion with result: "true"
+Sender Seller_1 got notified about request completion with result: "true"
+Group-Buyers3 got their work-shoes from Seller_1
+Group-Buyers3 got their work-shoes from Seller_2
+Group-Buyers3 got work-shoes on tick 28
+Group-Buyers3 got work-shoes on tick 28
+Tick: 29
+Factory_2 made one more pair of work-shoes and has 2 more for this order
+Group-Buyers1 is done shopping and is terminating!
+Tick: 30
+Factory_2 made one more pair of work-shoes and has 1 more for this order
+Tick: 31
+Factory_2 made one more pair of work-shoes and has 0 more for this order
+Tick: 32
+manager got notified about manufacturing completion for 2 work-shoes
+Sender Seller_3 got notified about request completion with result: "true"
+Group-Buyers3 got their work-shoes from Seller_3
+Group-Buyers3 got work-shoes on tick 32
+Tick: 33
+Group-Buyers3 is done shopping and is terminating!
+Tick: 34
+Tick: 35
+Yosef is ordering space-flip-flops on tick 35
+Seller_2 got a purchase from Yosef for a pair of space-flip-flops
+Yosef, there are no space-flip-flops shoes in our storage.
+Yosef got space-flip-flops on tick 35
+Tick: 36
+Yosef is done shopping and is terminating!
+Tick: 37
+Tick: 38
+Tick: 39
+Tick: 40
+Ilanit is ordering uncomfortable-high-heels on tick 40
+Seller_1 got a purchase from Ilanit for a pair of uncomfortable-high-heels
+Ilanit got their uncomfortable-high-heels from Seller_1
+Ilanit got uncomfortable-high-heels on tick 40
+Tick: 41
+Ilanit is done shopping and is terminating!
+Tick: 42
+manager: got tick 42 and is NOT(!!!!) making a discount on non-existing shoes!!!!
+Tick: 43
+Tick: 44
+Tick: 45
+Reuven is ordering space-flip-flops on tick 45
+Seller_3 got a purchase from Reuven for a pair of space-flip-flops
+Reuven, there are no space-flip-flops shoes in our storage.
+Reuven got space-flip-flops on tick 45
+Tick: 46
+Reuven is done shopping and is terminating!
+Tick: 47
+Tick: 48
+Tick: 49
+Tick: 50
+Tick: 51
+Tick: 52
+Tick: 53
+Tick: 54
+Tick: 55
+Tick: 56
+Tick: 57
+Tick: 58
+Tick: 59
+manager: got tick 59 and is making a discount on 1 ugly-sandals
+Bruria is ordering ugly-sandals from their wishlist
+Seller_2 got a purchase from Bruria for a pair of ugly-sandals
+Seller_1 got a purchase from Shraga for a pair of ugly-sandals
+Bruria got their ugly-sandals on discount! from Seller_2
+manager got a new restock request from Seller_1
+Factory_1 got a new manufacturing request for 5 ugly-sandals
+Tick: 60
+Bruria is done shopping and is terminating!
+Factory_1 made one more pair of ugly-sandals and has 4 more for this order
+Simha is ordering red-boots on tick 60
+Simha is ordering red-boots on tick 60
+Seller_3 got a purchase from Simha for a pair of red-boots
+Simha is ordering red-boots on tick 60
+Simha got their red-boots from Seller_3
+Simha is ordering red-boots on tick 60
+Seller_1 got a purchase from Simha for a pair of red-boots
+Simha got their red-boots from Seller_2
+Simha got their red-boots from Seller_1
+Simha got red-boots on tick 60
+Simha got red-boots on tick 60
+Simha got red-boots on tick 60
+Seller_3 got a purchase from Simha for a pair of red-boots
+manager got a new restock request from Seller_3
+Factory_2 got a new manufacturing request for 1 red-boots
+Shraga has recieved a terminating message, and is reporting to the store.
+Simha has recieved a terminating message, and is reporting to the store.
+Seller_3 has recieved a terminating message, and is reporting to the store.
+Factory_2 has recieved a terminating message, and is reporting to the store.
+Seller_2 has recieved a terminating message, and is reporting to the store.
+Seller_1 has recieved a terminating message, and is reporting to the store.
+Factory_1 has recieved a terminating message, and is reporting to the store.
+ShoeStorageInfo [shoeType=green-flip-flops, amountOnStorage=6, discountedAmount=0]
+ShoeStorageInfo [shoeType=red-boots, amountOnStorage=0, discountedAmount=0]
+ShoeStorageInfo [shoeType=uncomfortable-high-heels, amountOnStorage=3, discountedAmount=0]
+ShoeStorageInfo [shoeType=ugly-sandals, amountOnStorage=0, discountedAmount=0]
+ShoeStorageInfo [shoeType=work-shoes, amountOnStorage=1, discountedAmount=0]
+ShoeStorageInfo [shoeType=blue-sneakers, amountOnStorage=7, discountedAmount=2]
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Ilanit | Shoe Type: uncomfortable-high-heels
+| Discount: true | Issued Tick: 1 | Request Tick: 1 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Bracha | Shoe Type: blue-sneakers
+| Discount: true | Issued Tick: 7 | Request Tick: 7 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Shimshon | Shoe Type: blue-sneakers
+| Discount: false | Issued Tick: 9 | Request Tick: 9 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 12 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 12 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Shraga | Shoe Type: green-flip-flops
+| Discount: false | Issued Tick: 12 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 12 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 16 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 16 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 20 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Shimshon | Shoe Type: blue-sneakers
+| Discount: true | Issued Tick: 20 | Request Tick: 20 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 20 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers2 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 24 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 12 | Amount Sold=3
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 14 | Amount Sold=5
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 13 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers1 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 12 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 14 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 15 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 19 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 18 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 28 | Request Tick: 17 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Factory | Customer: Store | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 32 | Request Tick: 21 | Amount Sold=2
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Group-Buyers3 | Shoe Type: work-shoes
+| Discount: false | Issued Tick: 32 | Request Tick: 21 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Ilanit | Shoe Type: uncomfortable-high-heels
+| Discount: false | Issued Tick: 40 | Request Tick: 40 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Bruria | Shoe Type: ugly-sandals
+| Discount: true | Issued Tick: 59 | Request Tick: 59 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_3 | Customer: Simha | Shoe Type: red-boots
+| Discount: false | Issued Tick: 60 | Request Tick: 60 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_2 | Customer: Simha | Shoe Type: red-boots
+| Discount: false | Issued Tick: 60 | Request Tick: 60 | Amount Sold=1
+|____________________________________________________________
+
+ ____________________________________________________________
+| Seller: Seller_1 | Customer: Simha | Shoe Type: red-boots
+| Discount: false | Issued Tick: 60 | Request Tick: 60 | Amount Sold=1
+|____________________________________________________________
+
+

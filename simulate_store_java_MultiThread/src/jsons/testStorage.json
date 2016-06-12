@@ -1,0 +1,19 @@
+{
+"initialStorage": [
+{"shoeType": "a", "amount": 1},
+{"shoeType": "b", "amount": 2},
+{"shoeType": "c", "amount": 3},
+{"shoeType": "d", "amount": 4},
+{"shoeType": "e", "amount": 5},
+{"shoeType": "Thousand", "amount": 10000},
+{"shoeType": "Zero", "amount": 15},
+{"shoeType": "f", "amount": 5},
+{"shoeType": "g", "amount": 5},
+{"shoeType": "h", "amount": 5},
+{"shoeType": "i", "amount": 5},
+
+]
+
+}
+
+

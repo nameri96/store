@@ -1,0 +1,283 @@
+{
+  "initialStorage": [{
+    "shoeType": "blue-sneakers",
+    "amount": 10
+  }, {
+    "shoeType": "uncomfortable-high-heels",
+    "amount": 5
+  }, {
+    "shoeType": "green-flip-flops",
+    "amount": 7
+  }, {
+    "shoeType": "red-boots",
+    "amount": 3
+  }, {
+    "shoeType": "ugly-sandals",
+    "amount": 1
+  }, {
+    "shoeType": "work-shoes",
+    "amount": 3
+  }],
+  "services": {
+    "time": {
+      "speed": 50,
+      "duration": 60
+    },
+    "manager": {
+      "discountSchedule": [{
+          "shoeType": "space-flip-flops",
+          "amount": 1,
+          "tick": 42
+        },
+
+        {
+          "shoeType": "space-flip-flops",
+          "amount": 1,
+          "tick": 6
+        },
+
+        {
+          "shoeType": "blue-sneakers",
+          "amount": 1,
+          "tick": 7
+        },
+
+        {
+          "shoeType": "blue-sneakers",
+          "amount": 3,
+          "tick": 17
+        },
+
+        {
+          "shoeType": "ugly-sandals",
+          "amount": 1,
+          "tick": 59
+        },
+
+        {
+          "shoeType": "ugly-sandals",
+          "amount": 1,
+          "tick": 59
+        },
+
+        {
+          "shoeType": "uncomfortable-high-heels",
+          "amount": 1,
+          "tick": 1
+        }
+      ]
+    },
+    "factories": 2,
+    "sellers": 3,
+    "customers": [
+
+      {
+        "name": "Bracha",
+        "wishList": ["blue-sneakers"],
+        "purchaseSchedule": []
+      },
+
+      {
+        "name": "Nurith",
+        "wishList": ["uncomfortable-high-heels"],
+        "purchaseSchedule": []
+      },
+
+      {
+        "name": "Group-Buyers1",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }]
+      },
+      
+      {
+        "name": "Group-Buyers3",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 13
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 14
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 15
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 16
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 17
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 18
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 19
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 20
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 21
+        }]
+      },
+      {
+        "name": "Group-Buyers2",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }, {
+          "shoeType": "work-shoes",
+          "tick": 12
+        }]
+      },
+
+      {
+        "name": "Shimshon",
+        "wishList": [],
+        "purchaseSchedule": [{
+            "shoeType": "blue-sneakers",
+            "tick": 9
+          },
+
+          {
+            "shoeType": "blue-sneakers",
+            "tick": 20
+          }
+        ]
+      },
+
+      {
+        "name": "Simha",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "red-boots",
+          "tick": 60
+        }, {
+          "shoeType": "red-boots",
+          "tick": 60
+        }, {
+          "shoeType": "red-boots",
+          "tick": 60
+        }, {
+          "shoeType": "red-boots",
+          "tick": 60
+        }]
+      },
+
+      {
+        "name": "Ilanit",
+        "wishList": [],
+        "purchaseSchedule": [{
+            "shoeType": "uncomfortable-high-heels",
+            "tick": 1
+          },
+
+          {
+            "shoeType": "uncomfortable-high-heels",
+            "tick": 40
+          }
+        ]
+      },
+
+      {
+        "name": "Bruria",
+        "wishList": ["ugly-sandals"],
+        "purchaseSchedule": []
+      },
+
+      {
+        "name": "Shraga",
+        "wishList": ["ugly-sandals", "space-flip-flops"],
+        "purchaseSchedule": [{
+          "shoeType": "green-flip-flops",
+          "tick": 12
+        }]
+      },
+
+      {
+        "name": "Yosef",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "space-flip-flops",
+          "tick": 35
+        }]
+      },
+
+      {
+        "name": "Reuven",
+        "wishList": [],
+        "purchaseSchedule": [{
+          "shoeType": "space-flip-flops",
+          "tick": 45
+        }]
+      }
+
+
+    ]
+  }
+}

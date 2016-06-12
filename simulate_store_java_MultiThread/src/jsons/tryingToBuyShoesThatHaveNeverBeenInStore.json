@@ -1,0 +1,37 @@
+{
+"initialStorage": [
+{"shoeType": "red-boots", "amount": 1},
+{"shoeType": "green-flip-flops", "amount": 1}
+],
+"services": {
+"time": {
+"speed": 100,
+"duration": 24
+},
+"manager": {
+"discountSchedule": [
+{"shoeType": "red-boots", "amount": 1, "tick": 3},
+{"shoeType": "green-flip-flops", "amount": 3, "tick":10}
+]
+},
+"factories": 3,
+"sellers": 2,
+"customers": [
+{
+"name": "Bruria",
+"wishList": ["green-flip-flops"],
+"purchaseSchedule": [
+{"shoeType": "red-boots", "tick": 3},
+{"shoeType": "blue-aldo-hills", "tick": 7}
+]
+},
+{
+"name": "Shraga",
+"wishList": ["green-flip-flops"],
+"purchaseSchedule": [
+{"shoeType": "green-flip-flops", "tick": 12}
+]
+}
+]
+}
+}
